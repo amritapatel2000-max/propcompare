@@ -1,0 +1,13 @@
+listing_id,property_type,emirate,location,title,purpose,price_aed,bedrooms,bathrooms,area_sqft,status,furnishing,source,source_url
+PC001,Apartment,Dubai,Dubai Marina,Marina View Tower,For Sale,1850000,2,2,1250,Ready,Furnished,Bayut,https://www.bayut.com/
+PC002,Apartment,Dubai,Jumeirah Village Circle,Garden Residences,For Sale,980000,1,1,820,Ready,Unfurnished,Property Finder,https://www.propertyfinder.ae/
+PC003,Villa,Dubai,Arabian Ranches,Desert Bloom Villa,For Sale,4200000,4,4,3200,Ready,Unfurnished,Demo dataset,https://www.bayut.com/
+PC004,Apartment,Abu Dhabi,Al Reem Island,Canal Heights,For Sale,1450000,2,2,1180,Ready,Furnished,Demo dataset,https://www.propertyfinder.ae/
+PC005,Townhouse,Sharjah,Aljada,Parkside Townhouse,For Sale,1750000,3,3,2100,Off-plan,Unfurnished,Demo dataset,https://www.bayut.com/
+PC006,Apartment,Dubai,Business Bay,Canal Point,For Rent,110000,1,1,760,Ready,Furnished,Demo dataset,https://www.propertyfinder.ae/
+PC007,Apartment,Dubai,Downtown Dubai,Central Boulevard,For Sale,2300000,2,3,1350,Ready,Furnished,Demo dataset,https://www.bayut.com/
+PC008,Villa,Abu Dhabi,Yas Island,Yas Family Villa,For Rent,220000,4,4,2800,Ready,Unfurnished,Demo dataset,https://www.propertyfinder.ae/
+PC009,Apartment,Sharjah,Al Khan,Lagoon Residence,For Sale,720000,1,1,900,Ready,Unfurnished,Demo dataset,https://www.bayut.com/
+PC010,Apartment,Ajman,Al Rashidiya,City View Apartment,For Sale,490000,2,2,1050,Ready,Unfurnished,Demo dataset,https://www.propertyfinder.ae/
+PC011,Townhouse,Dubai,Town Square,Maple Townhouse,For Sale,1950000,3,3,2250,Ready,Unfurnished,Demo dataset,https://www.bayut.com/
+PC012,Apartment,Ras Al Khaimah,Al Marjan Island,Coastal Escape,For Sale,1250000,1,2,880,Off-plan,Furnished,Demo dataset,https://www.bayut.com/
